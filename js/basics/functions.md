@@ -72,7 +72,7 @@ greet("Alex"); // Արդյունք կլինի "Hi, Alex!"
 
 * **Վերադարձվող արժեքով ֆունկցիաներ:**
 
-```javascript
+```javascript title="example.js"
 function square(number) {
   return number * number;
 }
